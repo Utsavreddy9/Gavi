@@ -29,7 +29,7 @@ The standard C6 steel frame thickness is 3mm and weighs 502 pounds while the alu
 - ### Solder wire
 
 ## Android App:
-- ###SriTu Hobby
+- ### SriTu Hobby
 
 
 
