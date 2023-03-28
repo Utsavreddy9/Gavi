@@ -10,7 +10,6 @@ The expected outcomes of the project include a working remote-controlled car tha
 
 # Components
 
-
 - ### Arduino UNO :
  It is a low-cost, flexible, and easy-to-use programmable open-source microcontroller board that can be integrated into a variety of electronic projects.
 - ### L293D shield:
@@ -29,6 +28,8 @@ The standard C6 steel frame thickness is 3mm and weighs 502 pounds while the alu
 - ### 2 Cell holder
 - ### Solder wire
 
+## Android App:
+- ###SriTu Hobby
 
 
 
